@@ -3,33 +3,15 @@
 > This project requires the python to be python3 version and the recently downloaded versions of python (3.9 or 3.10) sometimes are saved as just "python.exe" in their path and if there is any error regarding the python renaming the executable python file from "python.exe" to "python3.exe" should do the trick.
 
 > This project has been complied and done in the Pycharm application and some setting may or may not require your overview,
-
-
-# Global Digital Corps - Software Engineering Test Problem | Priority list
-
-Thanks for applying to the Global Digital Corps!
-
-In this step we want to see how you implement a command-line (CLI) program that lets you manage your tasks.
-
-The specification for this problem is written down as tests. Since we haven’t actually implemented anything, the tests are currently failing. You have to solve the problem by implementing the application and getting all the tests to pass.
-
-Here's how it should work when you're done:
+> 
 
 [![TASK-CLI](https://res.cloudinary.com/sv-co/image/upload/v1638058186/GDC/SE/Admission/gdc-home-page_b6s3go.png)](https://vimeo.com/648902045)
 ## Getting started
 
-1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command:
+1. Install Python
+2. code is to be written in `task.py` file.
 
-   ```
-   python3 --version
-   ```
-
-   This should output some information on the installed Python version.
-   You can also install python by following these instructions: https://installpython3.com/
-
-2. You are expected to write the code in `task.py` file.
-
-3. Once you are done with the changes you should be able to execute the task app by running the following command from the terminal.
+3. Execute by
 
    **On Windows:**
 
@@ -46,7 +28,7 @@ Here's how it should work when you're done:
 
 ### 1. Install Node.js
 
-You need to have npm installed in your computer for this problem. It comes with Node.js and you can get it by installing Node from https://nodejs.org/en/
+npm is requried for the implementation
 
 ### 2. Install dependencies
 
@@ -71,6 +53,7 @@ To create a symbolic link on Windows, you'll need to run either the Windows Comm
 ```
 
 #### On \*nix:
+
 
 Run the following command in your shell:
 
